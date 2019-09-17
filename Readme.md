@@ -1,3 +1,3 @@
-title: "APISLide experiments"
+# APISLide experiments
 
 sh deploy.sh
