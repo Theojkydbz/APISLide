@@ -7,6 +7,6 @@ to launch
 <YOURAPI_KEY> 
 <YOURCLIENT_ID> 
 
-##TODO
+## TODO
 - Experiments 
 - writting on file (image +text)
