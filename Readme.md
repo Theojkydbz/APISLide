@@ -1,3 +1,5 @@
 # APISLide experiments
 
-sh deploy.sh
+sh deploy.sh 
+
+to launch
