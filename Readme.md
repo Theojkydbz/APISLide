@@ -2,7 +2,7 @@
 
 sh deploy.sh 
 
-to launch
+to launch 
 
 <YOURAPI_KEY> 
 <YOURCLIENT_ID> 
