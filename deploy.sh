@@ -1,5 +1,8 @@
-# build
+
+# navigate into the localhost
+open http://localhost:8000/
+
+# run serve
 python -m SimpleHTTPServer 8000
 
-# navigate into the build output directory
-open index.html
+# Refresh if can't load
